@@ -1,4 +1,4 @@
-# Alura_DataScience
+# Alura_DataScience Store Challenge 
 Challenge Alura Store
 El documento describe el proceso necesario para analizar un conjunto de datos con información sobre productos, precios, envíos, compras, calificaciones de clientes y métodos de pago. Primero se realiza una exploración inicial para entender la estructura del dataset y detectar patrones o inconsistencias.
 
